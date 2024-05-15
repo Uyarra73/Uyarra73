@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is **Alberto**
 #### I am a **Frontend Developer**.
-I am an enthusiast tech student and frontend developer.
+I am an enthusiast self-taught tech student and frontend developer.
 My goal is to become a **Full Stack Developer** in a near future. Working really hard to get there soon.
 Bellow you can see the technologies I use.
 
